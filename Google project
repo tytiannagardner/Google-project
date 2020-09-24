@@ -1,0 +1,20 @@
+＜ !DOCTYPE＞
+<center><img src="images/google.jpg"
+ alt="Google Website Picture">
+<h4>Search The Web Using Google</h4>
+<input type="text" id="name" name="name" required
+       minlength="4" maxlength="8" size="10">
+  <br> <button class="favorite styled"
+        type="button">
+    Google Search
+</button>
+     <button class="favorite styled"
+        type="button">
+    I'm Feeling Lucky
+</button>
+  <br>
+<ul>
+  <a href="https://example.com">More Google!</a>
+  <br>
+  <h6>Copyright 1999 Google Inc. </h6>
+</center>
